@@ -46,7 +46,7 @@ table {
 
 .center-horiz {
     padding-top: 10px;
-    width: 200px;
+    width: 300px;
     display: block;
     text-align: center;
     margin-left: auto;
@@ -56,6 +56,6 @@ table {
 #result {
     background-color: #FFFFFF;
     border: thin inset #aaaaaa;
-    height: 75px;
+    min-height: 50px;
 }
 
